@@ -1,4 +1,4 @@
-# Accompanying code to "What computations can be done with traveling waves in visual cortex?"
+# Accompanying code to "Short-term prediction with waves traveling over a map of visual space"
 
 This repository contains the source code and data from
 
