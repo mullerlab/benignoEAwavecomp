@@ -12,7 +12,7 @@ Before running a script (within the `figures` subfolder), make sure the current 
 
 ## Testing
 
-Tested on MATALB (R2021a) under macOS and Linux.
+Tested on MATLAB (R2021a) under macOS and Linux.
 
 ## Dependencies
 N.B. all third-party dependencies are included and added to the path when needed.
