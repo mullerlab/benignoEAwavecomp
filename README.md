@@ -1,8 +1,8 @@
-# Accompanying code to "Short-term prediction with waves traveling over a map of visual space"
+# Accompanying code to "Waves traveling over a map of visual space can ignite short-term predictions of sensory input"
 
 This repository contains the source code and data from
 
-Benigno, Budzinski, Davis, Reynolds, Muller. (2023) Short-term prediction with waves traveling over a map of visual space. *Nature Communications*.
+Benigno, Budzinski, Davis, Reynolds, Muller. (2023) Waves traveling over a map of visual space can ignite short-term predictions of sensory input. *Nature Communications*.
 
 The source code reproduces each manuscript figure, with MATLAB code organized as subfolders following individual figure panels. Installation only requires adding the files to the MATLAB path (done automatically where needed). Running the code in the respective panel subfolders will produce a graphical output of the panel from the text. Each script requires only a few minutes to run on a standard desktop workstation.
 
